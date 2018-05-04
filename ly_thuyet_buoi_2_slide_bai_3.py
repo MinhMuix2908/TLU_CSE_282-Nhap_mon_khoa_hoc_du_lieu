@@ -4,6 +4,12 @@ Created on Tue Apr 24 20:34:24 2018
 
 @author: Minh
 """
+"""
+1.Viết chương trình nhập số A và kiểm tra xem A có phải là số nguyên tố hay không?
+2.Viết chương trình nhập hai số A và B, in ra tất cả các số nguyên tố nằm trong khoảng [A, B].
+3.Nhập 2 số A và B, tính và in ra màn hình ước số chung lớn nhất và bội số chung nhỏ nhất của hai số đó.
+4.Nhập tọa độ 3 điểm A, B và C trên mặt phẳng 2 chiều. Hãy kiểm tra và chỉ ra hình dạng của tam giác ABC (đều, vuông, cân, vuông cân, tù, nhọn,…)
+"""
 import math
 def isPrime(a): #câu 1: kiểm tra 1 số có phải số nguyên tố k
     if(a==1):
