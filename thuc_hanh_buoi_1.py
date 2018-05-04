@@ -4,6 +4,9 @@ Created on Mon Apr 23 10:08:47 2018
 
 @author: Minh
 """
+"""
+giải phương trình bậc 1,2
+"""
 import math;
 def ptbac1(a,b):
     print("Giải phương trình bậc 1: ",a,"x + ",b," = 0",sep='');
